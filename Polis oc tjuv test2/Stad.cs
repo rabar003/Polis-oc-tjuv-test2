@@ -146,7 +146,7 @@ namespace Polis_oc_tjuv_1
                     Console.Write("    ########");
                 }
 
-                Console.WriteLine();  // Ny rad för både stadskartan och fängelset
+                Console.WriteLine();  
             }
 
             // Skriv också ut hur många tjuvar som finns i fängelset
